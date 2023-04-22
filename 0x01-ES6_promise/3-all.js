@@ -1,6 +1,5 @@
-//declarations for image import 
 import { uploadPhoto, createUser } from './utils';
-//Exporting functions declarations for insert imported image for handleProfileSignup
+
 export default function handleProfileSignup() {
   let body;
   let firstName;
