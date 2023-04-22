@@ -1,4 +1,3 @@
-//Exporting functions declarations for getfullResponse
 export default function getFullResponseFromAPI(success) {
   const myPromise = new Promise((resolve, reject) => {
     if (success) {
